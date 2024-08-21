@@ -192,13 +192,15 @@ Commits are snapshots of the state of your project at a specific point in time. 
 
 How Commits Help in Tracking Changes and Managing Versions:
 
-Change Tracking: Commits provide a chronological record of all changes made to your project, allowing you to track the evolution of your code.
-Version Control: Commits represent different versions of your project. You can easily revert to or compare previous versions using the commit history.
-Collaboration: Commits facilitate collaboration by allowing multiple developers to work on the same project. Each commit captures an individual's changes, which can be shared and merged into the main repository.
-Code Review: Commit messages provide a clear explanation of the changes introduced, enabling code reviewers to quickly assess the impact of the commit.
-Rollbacks: If you make a mistake or introduce unexpected changes, you can use commits to roll back to an earlier, stable version of your project.
+1. Change Tracking: Commits provide a chronological record of all changes made to your project, allowing you to track the evolution of your code.
+2. Version Control: Commits represent different versions of your project. You can easily revert to or compare previous versions using the commit history.
+3. Collaboration: Commits facilitate collaboration by allowing multiple developers to work on the same project. Each commit captures an individual's changes, which can be shared and merged into the main repository.
+4. Code Review: Commit messages provide a clear explanation of the changes introduced, enabling code reviewers to quickly assess the impact of the commit.
+5. Rollbacks: If you make a mistake or introduce unexpected changes, you can use commits to roll back to an earlier, stable version of your project.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+
+
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
