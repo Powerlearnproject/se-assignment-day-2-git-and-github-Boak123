@@ -22,18 +22,18 @@ How Version Control Maintains Project Integrity
 Version control offers several benefits that help maintain project integrity:
 
 History Tracking: It maintains a complete history of code changes, allowing developers to trace the evolution of the project and pinpoint the source of any issues.
-Branching and Merging: It enables the creation of separate branches of the code, allowing developers to work on different features or bug fixes simultaneously without affecting the main branch. Once changes are complete, they can be merged back into the main branch.
-Collaboration Support: Version control facilitates collaboration by allowing multiple developers to work on the same project simultaneously. Changes made by one developer can be tracked and integrated into the work of others.
-Rollback Capability: In case of accidental changes or errors, version control allows developers to roll back to previous versions of the code quickly and recover any lost work.
-Version Control for Different Environments: Different versions of the code can be maintained for different environments, such as development, testing, and production.
+1. Branching and Merging: It enables the creation of separate branches of the code, allowing developers to work on different features or bug fixes simultaneously without affecting the main branch. Once changes are complete, they can be merged back into the main branch.
+2. Collaboration Support: Version control facilitates collaboration by allowing multiple developers to work on the same project simultaneously. Changes made by one developer can be tracked and integrated into the work of others.
+3. Rollback Capability: In case of accidental changes or errors, version control allows developers to roll back to previous versions of the code quickly and recover any lost work.
+3. Version Control for Different Environments: Different versions of the code can be maintained for different environments, such as development, testing, and production.
 Why GitHub is Popular
 
 GitHub has become a popular version control tool due to its:
 
-Cloud-based hosting: Allows developers to access and collaborate on code from anywhere with an internet connection.
+1.Cloud-based hosting: Allows developers to access and collaborate on code from anywhere with an internet connection.
 User-friendly interface: Simplifies the process of tracking code changes, creating branches, and merging changes.
-Large community: Provides a vast network of developers who share knowledge and assist with debugging and troubleshooting issues.
-Integration with other tools: Supports integration with popular IDEs, issue trackers, and project management tools, streamlining the development workflow.
+2. Large community: Provides a vast network of developers who share knowledge and assist with debugging and troubleshooting issues.
+3. Integration with other tools: Supports integration with popular IDEs, issue trackers, and project management tools, streamlining the development workflow.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
